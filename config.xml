@@ -2,18 +2,18 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "institute.ingage.edu"
+        id        = "com.moodle.moodlemobile"
         versionCode = "37100"
         android-versionCode="37100"
         version   = "3.7.1">
-    <name>Ingage</name>
+    <name>Moodle</name>
 
     <description>
-        Ingage official app
+        Moodle official app
     </description>
 
-    <author href="https://ingage.institute" email="support@ingageinsurance.net">
-        Ingage Mobile team
+    <author href="http://moodle.com" email="mobile@moodle.com">
+        Moodle Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
